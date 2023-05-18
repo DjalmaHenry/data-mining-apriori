@@ -1,4 +1,4 @@
-<h1 align="center">Data Mining com Apriori</h1>
+<h1 align="center">Data Mining with APRIORI</h1>
 <h3 align="center">Mineração de dados usando regras de associação APRIORI</h3>
 <br/>
 
